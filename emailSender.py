@@ -4,7 +4,7 @@ import smtplib
 
 email_sender = 'deepakkabdwal181201@gmail.com'
 
-email_password = 'hhcl dztk nfbj jsfi'
+email_password = ''
 email_receiver = 'pikabdwal@gmail.com', 'pikkabdwal123@gmail.com'
 
 subject = "CuddlyFussyInteger says HI!"
